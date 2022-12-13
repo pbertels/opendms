@@ -1,0 +1,27 @@
+{
+	"E": {
+		"en": "Existing state",
+		"nl": "Bestaande toestand",
+		"fr": "État existant"
+	},
+	"D": {
+		"en": "Designed state",
+		"nl": "Ontworpen toestand",
+		"fr": "État conçu"
+	},
+	"T": {
+		"en": "Temporary state",
+		"nl": "Tijdelijke toestand",
+		"fr": "État temporaire"
+	},
+	"P": {
+		"en": "Permit",
+		"nl": "Vergunde toestand",
+		"fr": "État permis"
+	},
+	"W": {
+		"en": "Work in progress",
+		"nl": "Werktekening",
+		"fr": "Dessin de travail"
+	}
+}
