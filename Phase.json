@@ -1,0 +1,42 @@
+{
+	"0": {
+		"en": "Start",
+		"nl": "Start",
+		"fr": "Démarrage"
+	},
+	"1": {
+		"en": "Feasibility study",
+		"nl": "Haalbaarheidsstudie",
+		"fr": "Étude de faisabilité"
+	},
+	"2": {
+		"en": "Sketch design",
+		"nl": "Schetsontwerp",
+		"fr": "Esquisse"
+	},
+	"3": {
+		"en": "Design",
+		"nl": "Voorontwerp",
+		"fr": "Avant-projet"
+	},
+	"4": {
+		"en": "Final design",
+		"nl": "Finaal ontwerp",
+		"fr": "Projet final"
+	},
+	"5": {
+		"en": "Execution",
+		"nl": "Uitvoering",
+		"fr": "Exécution"
+	},
+	"6": {
+		"en": "Maintenance",
+		"nl": "Onderhoud",
+		"fr": "Maintenance"
+	},
+	"7": {
+		"en": "End of life",
+		"nl": "End of life",
+		"fr": "End of life"
+	}
+}
