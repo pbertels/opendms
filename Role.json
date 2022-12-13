@@ -1,0 +1,47 @@
+{
+	"A": {
+		"en": "Architect",
+		"nl": "Architect",
+		"fr": "Architecte"
+	},
+	"C": {
+		"en": "Consultant",
+		"nl": "Consultant",
+		"fr": "Consultat"
+	},
+	"E": {
+		"en": "Engineering",
+		"nl": "Studiebureau",
+		"fr": "Ingénierie"
+	},
+	"K": {
+		"en": "Client",
+		"nl": "Klant",
+		"fr": "Client"
+	},
+	"M": {
+		"en": "Asset manager",
+		"nl": "Asset beheerder",
+		"fr": "Gestionnaire des actifs"
+	},
+	"Q": {
+		"en": "Quality manager",
+		"nl": "Kwaliteitsmanager",
+		"fr": "Gestionnaire qualité"
+	},
+	"S": {
+		"en": "Safety & prevention",
+		"nl": "Veiligheid & Preventie adviseur",
+		"fr": "Coordinateur sécurité santé"
+	},
+	"W": {
+		"en": "Main Contractor",
+		"nl": "Hoofdaannemer",
+		"fr": "Entrepreneur général"
+	},
+	"X": {
+		"en": "Sub Contractor",
+		"nl": "Onderaannemer",
+		"fr": "Sous-traitant"
+	}
+}
