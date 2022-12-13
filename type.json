@@ -1,0 +1,137 @@
+{
+	"AN": {
+		"en": "Analysis",
+		"nl": "Analyse",
+		"fr": "Analyse"
+	},
+	"BQ": {
+		"en": "Bill of quantities",
+		"nl": "Meetstaat",
+		"fr": "Métré"
+	},
+	"CA": {
+		"en": "Calculation",
+		"nl": "Calculatie",
+		"fr": "Calcul"
+	},
+	"CF": {
+		"en": "Certificate",
+		"nl": "Certificaat (attest)",
+		"fr": "Certificat"
+	},
+	"CL": {
+		"en": "Claim",
+		"nl": "Claim",
+		"fr": "Réclamation"
+	},
+	"CT": {
+		"en": "Contract",
+		"nl": "Contract",
+		"fr": "Contrat"
+	},
+	"CO": {
+		"en": "Correspondence",
+		"nl": "Correspondentie",
+		"fr": "Correspondance"
+	},
+	"CE": {
+		"en": "Cost estimate",
+		"nl": "Kostenschatting",
+		"fr": "Estimation des coûts"
+	},
+	"DR": {
+		"en": "Drawing (2D)",
+		"nl": "Tekening (2D)",
+		"fr": "Dessin (2D)"
+	},
+	"GL": {
+		"en": "Guideline",
+		"nl": "Handleiding",
+		"fr": "Manuel"
+	},
+	"LI": {
+		"en": "List",
+		"nl": "Lijst",
+		"fr": "Liste"
+	},
+	"MS": {
+		"en": "Method statement",
+		"nl": "Procedurestandaarden",
+		"fr": "Procedure"
+	},
+	"MI": {
+		"en": "Minutes of meeting",
+		"nl": "Minutes of meeting",
+		"fr": "Minutes de chantier"
+	},
+	"M3": {
+		"en": "Model (3D)",
+		"nl": "Model (3D)",
+		"fr": "Modèle (3D)"
+	},
+	"PN": {
+		"en": "Plan",
+		"nl": "Plan",
+		"fr": "Plan"
+	},
+	"PL": {
+		"en": "Planning",
+		"nl": "Planning",
+		"fr": "Planning"
+	},
+	"PC": {
+		"en": "Point cloud",
+		"nl": "Puntenwolk",
+		"fr": "Nuage de points"
+	},
+	"PP": {
+		"en": "Presentation",
+		"nl": "Presentatie",
+		"fr": "Présentation"
+	},
+	"RP": {
+		"en": "Report",
+		"nl": "Rapport",
+		"fr": "Rapport"
+	},
+	"RI": {
+		"en": "Request for info",
+		"nl": "Verzoek om informatie",
+		"fr": "Demande de renseignements"
+	},
+	"RD": {
+		"en": "Room datasheet",
+		"nl": "Ruimtefiche",
+		"fr": "Fiche par pièce"
+	},
+	"SH": {
+		"en": "Schedule",
+		"nl": "Schema",
+		"fr": "Tableau"
+	},
+	"FS": {
+		"en": "Settlement",
+		"nl": "Regeling",
+		"fr": "Règlement"
+	},
+	"SP": {
+		"en": "Specification",
+		"nl": "Specificatie",
+		"fr": "Specifications"
+	},
+	"TD": {
+		"en": "Technical datasheet",
+		"nl": "Technische fiche",
+		"fr": "Fiche technique"
+	},
+	"TE": {
+		"en": "Template",
+		"nl": "Sjabloon",
+		"fr": "Template"
+	},
+	"VS": {
+		"en": "Visual (photo, video, render…)",
+		"nl": "Visualisatie (foto, video, render…)",
+		"fr": "Visualisation (photo, vidéo, render…)"
+	}
+}
