@@ -1,0 +1,492 @@
+{
+	"ACO": {
+		"en": "Acoustics",
+		"nl": "Akoestiek",
+		"fr": "Acoustique"
+	},
+	"ARG": {
+		"en": "Architecture",
+		"nl": "Architectuur",
+		"fr": "Architecture",
+		"children": {
+			"AFI": {
+				"en": "Architecture / Architectural Finishes",
+				"nl": "Architectuur / Architecturale afwerking",
+				"fr": "Architecture / Finitions architecturales"
+			},
+			"AIN": {
+				"en": "Architecture / Interior Design",
+				"nl": "Architectuur / Interieur",
+				"fr": "Architecture / Architecture d'intérieur"
+			},
+			"ALA": {
+				"en": "Architecture / Landscape",
+				"nl": "Architectuur / Landschap",
+				"fr": "Architecture / Paysagisme"
+			}
+		}
+	},
+	"AMA": {
+		"en": "Asset Management",
+		"nl": "Asset management",
+		"fr": "Gestion d'actifs"
+	},
+	"BRE": {
+		"en": "BREEAM",
+		"nl": "BREEAM",
+		"fr": "BREEAM"
+	},
+	"BSI": {
+		"en": "Building Simulations",
+		"nl": "Gebouw simulaties",
+		"fr": "Simulation du bâtiment"
+	},
+	"CES": {
+		"en": "Civil Engineering Structures",
+		"nl": "Civiele techniek",
+		"fr": "Génie civil"
+	},
+	"CID": {
+		"en": "Circular Design",
+		"nl": "Circulair ontwerp",
+		"fr": "Conception circulaire"
+	},
+	"CMA": {
+		"en": "Cost Management",
+		"nl": "Kostenmanagement",
+		"fr": "Gestion des coûts"
+	},
+	"COM": {
+		"en": "Construction Management",
+		"nl": "Constructiemanagement",
+		"fr": "Gestion de la construction"
+	},
+	"CSC": {
+		"en": "Closed Shell Construction",
+		"nl": "Gesloten ruwbouw",
+		"fr": "Gros œuvre fermé"
+	},
+	"ELG": {
+		"en": "Electricity",
+		"nl": "Elektriciteit",
+		"fr": "Electricité",
+		"children": {
+			"ELF": {
+				"en": "Electricity / Safety Installations",
+				"nl": "Elektriciteit / Veiligheidsinstallaties",
+				"fr": "Electricité / Installations de sécurité"
+			},
+			"ELI": {
+				"en": "Electricity / Information Technology Cabling",
+				"nl": "Elektriciteit / IT-kablering",
+				"fr": "Electricité / Câblage informatique"
+			},
+			"ELL": {
+				"en": "Electricity / Lighting",
+				"nl": "Elektriciteit / Verlichting",
+				"fr": "Electricité / Lumière"
+			},
+			"ELM": {
+				"en": "Electricity / Mains Power Cabling",
+				"nl": "Elektriciteit / Vermogenkablering",
+				"fr": "Electricité / Câblage électrique principal"
+			},
+			"ELS": {
+				"en": "Electricity / Security Installations",
+				"nl": "Elektriciteit / Beveiligingsinstallaties",
+				"fr": "Electricité / Installations de sureté"
+			},
+			"ELV": {
+				"en": "Electricity / Low Voltage",
+				"nl": "Elektriciteit / Laagspanning",
+				"fr": "Electricité / Basse tension"
+			}
+		}
+	},
+	"ENV": {
+		"en": "Environment",
+		"nl": "Omgeving",
+		"fr": "Environnement"
+	},
+	"EPB": {
+		"en": "Energy Performance of Buildings (EPB/PEB)",
+		"nl": "Energieprestatie en Binnenklimaat (EPB)",
+		"fr": "Performance énergétique des bâtiments (PEB)"
+	},
+	"EXS": {
+		"en": "Explosion Safety",
+		"nl": "Explosiebeveiliging",
+		"fr": "Sécurité contre les explosions"
+	},
+	"FSG": {
+		"en": "Fire Safety",
+		"nl": "Brandveiligheid",
+		"fr": "Sécurité incendie",
+		"children": {
+			"FSS": {
+				"en": "Fire Safety / Sprinkler",
+				"nl": "Brandveiligheid / Sproeier",
+				"fr": "Sécurie incendie - sprinklage"
+			},
+			"FSV": {
+				"en": "Fire Safety / Smoke & Heat Ventilation",
+				"nl": "Brandveiligheid / Rook & Hitte Ventilatie",
+				"fr": "Sécurité incendie - Ventilation des fumées et de la chaleur"
+			}
+		}
+	},
+	"GIS": {
+		"en": "GIS",
+		"nl": "GIS",
+		"fr": "GIS - Système d'information géographique"
+	},
+	"GTE": {
+		"en": "Geotechnical",
+		"nl": "Geotechniek",
+		"fr": "Géotechnique"
+	},
+	"HQE": {
+		"en": "High Quality Environment",
+		"nl": "Milieu van hoge kwaliteit",
+		"fr": "Environnement de haute qualité"
+	},
+	"HSA": {
+		"en": "Health & Safety",
+		"nl": "Veiligheid en preventie",
+		"fr": "Sécurité et santé"
+	},
+	"HVG": {
+		"en": "HVAC",
+		"nl": "HVAC",
+		"fr": "HVAC",
+		"children": {
+
+			"HVA": {
+				"en": "HVAC / Automation",
+				"nl": "HVAC / Automatisatie",
+				"fr": "HVAC / Automatisation"
+			},
+			"HVH": {
+				"en": "HVAC / Heating & Cooling",
+				"nl": "HVAC / Verwarming en Koeling",
+				"fr": "HVAC / Chauffage et refroidissement"
+			},
+			"HVV": {
+				"en": "HVAC / Ventilation",
+				"nl": "HVAC / Ventilatie",
+				"fr": "HVAC / Ventilation"
+			}
+		}
+	},
+	"HYD": {
+		"en": "Hydraulics",
+		"nl": "Hydraulica",
+		"fr": "Hydraulique"
+	},
+	"HZM": {
+		"en": "Hazardous Materials",
+		"nl": "Gevaarlijke materialen",
+		"fr": "Produits dangereux"
+	},
+	"IFM": {
+		"en": "Information Management",
+		"nl": "Informatiemanagement",
+		"fr": "Gestion de l'information"
+	},
+	"IFT": {
+		"en": "Infratech",
+		"nl": "Infratech",
+		"fr": "Infratech"
+	},
+	"KIT": {
+		"en": "Kitchen",
+		"nl": "Keuken",
+		"fr": "Cuisine"
+	},
+	"LCA": {
+		"en": "Life Cycle Assessment",
+		"nl": "Life cycle assessment (LCA)",
+		"fr": "Analyse de cycle de vie (ACV)"
+	},
+	"LCC": {
+		"en": "Life Cycle Costing",
+		"nl": "Life cycle costing ",
+		"fr": "Coût du cycle de vie"
+	},
+	"LEE": {
+		"en": "LEED",
+		"nl": "LEED",
+		"fr": "LEED - bâtiment durable"
+	},
+	"LSU": {
+		"en": "Land Surveying",
+		"nl": "Landmeten",
+		"fr": "Levé topographique"
+	},
+	"MEG": {
+		"en": "Medical Gasses",
+		"nl": "Medische gassen",
+		"fr": "Gaz médicaux"
+	},
+	"MEP": {
+		"en": "Mechanical - Electrical - Plumbing",
+		"nl": "HVAC - Elektriciteit - Sanitair",
+		"fr": "HVAC - Electricité - Sanitaire"
+	},
+	"MOB": {
+		"en": "Mobility",
+		"nl": "Mobiliteitsbeleid",
+		"fr": "Politique de mobilité",
+		"children": {
+
+			"MOP": {
+				"en": "Mobility / Policy",
+				"nl": "Mobiliteitsbeleid",
+				"fr": "Politique de mobilité"
+			},
+			"MOT": {
+				"en": "Mobility / Technical",
+				"nl": "Mobiliteit / Technisch",
+				"fr": "Technique de mobilité"
+			}
+		}
+	},
+	"PEN": {
+		"en": "Process Engineering",
+		"nl": "Proces Engineering",
+		"fr": "Ingénerie des procédés"
+	},
+	"PIP": {
+		"en": "Piping",
+		"nl": "Leidingen",
+		"fr": "Tuyauterie"
+	},
+	"PLG": {
+		"en": "Plumbing",
+		"nl": "Sanitair",
+		"fr": "Plomberie",
+		"children": {
+
+			"PLD": {
+				"en": "Plumbing / Drainage System",
+				"nl": "Sanitair / drainage Systeem",
+				"fr": "Plomberie / système d'évacuation"
+			},
+			"PLS": {
+				"en": "Plumbing / Water Supply",
+				"nl": "Sanitair / watervoorziening",
+				"fr": "Plomberie / alimentation d'eau"
+			}
+		}
+	},
+	"PMA": {
+		"en": "Project Management",
+		"nl": "Projectmanagement",
+		"fr": "Gestion de projet"
+	},
+	"PMM": {
+		"en": "Permit Management",
+		"nl": "Vergunningsmanagement",
+		"fr": "Gestion des autorisations"
+	},
+	"PNT": {
+		"en": "Pneumatic Transport",
+		"nl": "Pneumatisch transport",
+		"fr": "Transport pneumatique"
+	},
+	"PRM": {
+		"en": "Program Management",
+		"nl": "Programmamanagement",
+		"fr": "Gestion du programme"
+	},
+	"QUG": {
+		"en": "Equipment",
+		"nl": "Voorzieningen",
+		"fr": "Equipement",
+		"children": {
+
+			"QAT": {
+				"en": "Equipment / Athletic Equipment",
+				"nl": "Voorzieningen / Sportvoorzieningen",
+				"fr": "Equipement / Equipement d'athlétisme"
+			},
+			"QBK": {
+				"en": "Equipment / Bank",
+				"nl": "Voorzieningen / Bank",
+				"fr": "Equipement / Banque"
+			},
+			"QDT": {
+				"en": "Equipment / Detention",
+				"nl": "Voorzieningen / Detentie",
+				"fr": "Equipement / Détention"
+			},
+			"QED": {
+				"en": "Equipment / Educational",
+				"nl": "Voorziening / Onderwijs",
+				"fr": "Equipement / Education"
+			},
+			"QFS": {
+				"en": "Equipment / Food Service",
+				"nl": "Voorzieningen / Keukenapparatuur",
+				"fr": "Equipement / Equipement de restauration"
+			},
+			"QLB": {
+				"en": "Equipment / Laboratory",
+				"nl": "Voorzieningen / Laboratoriummateriaal",
+				"fr": "Equipement / Equipement de laboratoire"
+			},
+			"QMD": {
+				"en": "Equipment / Medical",
+				"nl": "Voorzieningen / Medisch",
+				"fr": "Equipement / Equipement médical"
+			},
+			"QSU": {
+				"en": "Quantity Surveying",
+				"nl": "Kwantiteitsmeting",
+				"fr": "Evaluation des quantités"
+			}
+		}
+	},
+	"QUA": {
+		"en": "Quality",
+		"nl": "Kwaliteit",
+		"fr": "Qualité"
+	},
+	"RES": {
+		"en": "Real Estate",
+		"nl": "Vastgoed",
+		"fr": "Immobilier",
+		"children": {
+
+			"REA": {
+				"en": "Real Estate / Acquisition",
+				"nl": "Vastgoed / Acquisitie",
+				"fr": "Immobilier / Acquisition"
+			},
+			"REC": {
+				"en": "Real Estate / Consultancy",
+				"nl": "Vastgoed / Advies",
+				"fr": "Immobilier / Conseil"
+			},
+			"RES": {
+				"en": "Real Estate / Sales",
+				"nl": "Vastgoed / Verkoop",
+				"fr": "Immobilier / Vente"
+			}
+		}
+	},
+	"RMA": {
+		"en": "Risk Management",
+		"nl": "Risicobeheer",
+		"fr": "Gestion du risque"
+	},
+	"ROA": {
+		"en": "Roads",
+		"nl": "Wegen",
+		"fr": "Routes"
+	},
+	"SEN": {
+		"en": "System Engineering",
+		"nl": "System engineering",
+		"fr": "Ingénierie des systèmes"
+	},
+	"SEW": {
+		"en": "Sewers & Waters",
+		"nl": "Riolering en afwatering",
+		"fr": "Egouttage et drainage"
+	},
+	"SHM": {
+		"en": "Stakeholder Management",
+		"nl": "Stakeholdermanagement",
+		"fr": "Gestions des intervenants"
+	},
+	"SMB": {
+		"en": "Smart Building",
+		"nl": "Smart building",
+		"fr": "Bâtiment intelligent"
+	},
+	"SPD": {
+		"en": "Spatial Design",
+		"nl": "Ruimtelijk ontwerp",
+		"fr": "Conception spatiale"
+	},
+	"STG": {
+		"en": "Structure",
+		"nl": "Structuur",
+		"fr": "Structure",
+		"children": {
+
+
+			"STC": {
+				"en": "Structure / Concrete",
+				"nl": "Structuur / Beton",
+				"fr": "Structure / Béton"
+			},
+			"STP": {
+				"en": "Structure / Foundation (piles)",
+				"nl": "Structuur / Fundering",
+				"fr": "Structure / Fondations"
+			},
+			"STR": {
+				"en": "Structure / Reinforcement",
+				"nl": "Structuur / Wapening",
+				"fr": "Structure / Renforcement"
+			},
+			"STW": {
+				"en": "Structure / Wood",
+				"nl": "Structuur / Hout",
+				"fr": "Structure / Bois"
+			},
+			"STF": {
+				"en": "Structure / Formwork",
+				"nl": "Structuur / Bekisting",
+				"fr": "Structure / Coffrage"
+			},
+			"STL": {
+				"en": "Structure / Loads",
+				"nl": "Structuur / Lasten",
+				"fr": "Structure / Charges"
+			},
+			"STS": {
+				"en": "Structure / Steel",
+				"nl": "Structuur / Staal",
+				"fr": "Structure / Acier"
+			}
+		}
+	},
+	"SUS": {
+		"en": "Sustainability",
+		"nl": "Duurzaamheid",
+		"fr": "Durabilité"
+	},
+	"TES": {
+		"en": "Thermal Energy Storage",
+		"nl": "Thermische energieopslag",
+		"fr": "Stockage d'énergie thermique"
+	},
+	"TMM": {
+		"en": "Tender Management",
+		"nl": "Aanbestedingsmanagement",
+		"fr": "Gestion des appels d'offre"
+	},
+	"TRA": {
+		"en": "Transport",
+		"nl": "Transport",
+		"fr": "Transport"
+	},
+	"TTM": {
+		"en": "TOTEM",
+		"nl": "TOTEM",
+		"fr": "TOTEM"
+	},
+	"UPL": {
+		"en": "Urban Planning",
+		"nl": "Stadsplanning",
+		"fr": "Urbanisme"
+	},
+	"XXX": {
+		"en": "Not Applicable",
+		"nl": "Niet van toepassing",
+		"fr": "Non applicable"
+	}
+}
