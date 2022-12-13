@@ -49,18 +49,18 @@ The file name contains these fields, always in this fixed order, separated by hy
 
 - **Project** (3-10 chars): which project does this document belong to?
 - **Organisation** (3-10 chars): which organisation or company is responsible for the contents of this file
-- **Role** (1 [standard](#role) char): what's the role of the Organisation on this project?
-- **Functional breakdown** (3 [standard](#functional) chars): what's this document about?
-- **Type** (2 [standard](#type) chars): what type of information can be found in this document?
+- **Role** (1 standard char): what's the role of the Organisation on this project?
+- **Functional breakdown** (3 standard chars): what's this document about?
+- **Type** (2 standard chars): what type of information can be found in this document?
 - **Spatial breakdown** (4-8 chars): where on the project does this document apply?
 - **Number** (2-6 digits): number added to the file name to make a unique combination of all of the above fields
-- *Plan status* (1 [standard](#status) char): status of the plan
-- *Project phase* (1 [standard](#status) digit): what phase of the project does this document apply to?
+- *Plan status* (1 standard char): status of the plan
+- *Project phase* (1 standard] digit): what phase of the project does this document apply to?
 - *Short description* (text without spaces): textual description that helps to identify the document's content
 
 For each of the fields that need to follow a standard list, the possible values are explained below. *Important*: even though the fields *plan status* and *project phase* are only optional, we propose a standardised list for those fields.
 
 ## Acknowledgements
 
-Many thanks to all members of the [ADEB-VBA](https://adeb-vba.be) Digital Board, the [BBRI](https://bbri.be), the [ORI](https://ori.be), and many others that put time and effort in making this OpenDMS standard happen.
+Many thanks to all members of the [ADEB-VBA](https://adeb-vba.be) Digital Board, [Buildwise](https://buildwise.be), the [ORI](https://ori.be), and many others that put time and effort in making this OpenDMS standard happen.
 
